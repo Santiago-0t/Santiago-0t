@@ -4,6 +4,7 @@
   <a href="https://santiago-0t.github.io/"><img alt="Portafolio" src="https://img.shields.io/badge/portafolio-santiago--0t.github.io-191919?style=flat-square&labelColor=B77E64&logo=githubpages&logoColor=191919"></a>
   <a href="https://www.linkedin.com/in/santiago-otalvaro-539349403/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-santiago--otalvaro-191919?style=flat-square&labelColor=B77E64&logo=linkedin&logoColor=191919"></a>
   <a href="mailto:santig0talvaro@gmail.com"><img alt="Correo" src="https://img.shields.io/badge/correo-santig0talvaro@gmail.com-191919?style=flat-square&labelColor=B77E64&logo=gmail&logoColor=191919"></a>
+  <a href="https://orcid.org/0009-0007-8591-3085"><img alt="ORCID" src="https://img.shields.io/badge/orcid-0009--0007--8591--3085-191919?style=flat-square&labelColor=B77E64&logo=orcid&logoColor=191919"></a>
   <a href="https://santiago-0t.github.io/cv-santiago-otalvaro.pdf"><img alt="Hoja de vida" src="https://img.shields.io/badge/cv-pdf-191919?style=flat-square&labelColor=B77E64&logo=readthedocs&logoColor=191919"></a>
 </p>
 
@@ -43,7 +44,7 @@
 ### LuxSense
 Sistema inteligente de automatización de iluminación con machine learning para optimización energética en instituciones educativas.
 
-*Revista CienciometriK*, 4(6), 23–27 · ISSN 2981-5533 · **autor principal**
+*Revista CienciometriK*, 4(6), 23–27 · ISSN 2981-5533 · **autor principal** · [ORCID](https://orcid.org/0009-0007-8591-3085)
 
 Sensores IoT, análisis exploratorio y regresión lineal: reducción estimada de **12 a 18 t de CO₂ al año** por sede.
 
