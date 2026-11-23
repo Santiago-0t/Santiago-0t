@@ -48,7 +48,9 @@ Sistema inteligente de automatización de iluminación con machine learning para
 
 Sensores IoT, análisis exploratorio y regresión lineal: reducción estimada de **12 a 18 t de CO₂ al año** por sede.
 
-[`leer artículo ↗`](https://drive.google.com/file/d/1Tw17IZYcgMOUj2GJ3l3n4tSb70sNP0Ea/view?usp=drive_link)
+Plataforma web del proyecto en TypeScript: predicción y control del consumo energético con IoT. Soy su principal contribuidor.
+
+[`leer artículo ↗`](https://drive.google.com/file/d/1Tw17IZYcgMOUj2GJ3l3n4tSb70sNP0Ea/view?usp=drive_link) &nbsp; [`ver código ↗`](https://github.com/zodiakoCEO/LuxSenseProject)
 
 </td>
 <td width="28%" valign="top">
