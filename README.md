@@ -28,6 +28,8 @@
   <a href="https://santiago-0t.github.io/#proyectos"><picture><source media="(prefers-color-scheme: light)" srcset="assets/card-06-light.png"><img alt="Lineamientos de desarrollo de software UCO; adoptados por 18 proyectos" src="assets/card-06-dark.png" width="49%"></picture></a>
 </p>
 
+<p><a href="https://github.com/Santiago-0t/kazari"><picture><source media="(prefers-color-scheme: light)" srcset="assets/card-07-light.png"><img alt="kazari: app de escritorio en Rust para personalizar Windows; proyecto personal en curso" src="assets/card-07-dark.png" width="99%"></picture></a></p>
+
 <sub>Mi trabajo en la universidad vive en su repositorio interno; aquí lo describo sin publicar su código. Git Flow y Conventional Commits en todo.</sub>
 
 > [!TIP]
